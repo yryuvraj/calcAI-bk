@@ -1,0 +1,5 @@
+venv
+.env
+__pycache__
+# ignore 
+image.png
